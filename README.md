@@ -18,4 +18,4 @@ also adjust crontab from coinage.html to index.html
 0 * * * * /snap/bin/denarius.daemon fortunastake list full > /var/www/html/fslist.json && /bin/sh /root/coinage.sh > /var/www/html/coinage.html
 ```
 sample site  
-https://pos.watch/coinage.html
+https://pos.watch/coinage
